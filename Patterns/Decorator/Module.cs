@@ -136,7 +136,4 @@ namespace ModuleDecoratorPattern
         }
     }
 
-
-
-
 }
