@@ -1,2 +1,2 @@
 # Starter
-Hello.
+Educational stuff rep.
