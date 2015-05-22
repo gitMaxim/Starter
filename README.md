@@ -1,2 +1,1 @@
-# Starter
 Educational stuff rep.
