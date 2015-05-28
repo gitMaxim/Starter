@@ -68,7 +68,6 @@ namespace ModuleFactoryMethodPattern
         }
     }
 
-    // FACTORY METHOD:
     abstract class PizzaStore
     {
         public Pizza orderPizza(string type)
@@ -86,7 +85,7 @@ namespace ModuleFactoryMethodPattern
         protected abstract Pizza createPizza(string type);
     }
 
-    // PIZZA STORE:
+    // FACTORY METHOD:
     class NYStylePizzaStore : PizzaStore
     {
         protected override Pizza createPizza(string type)
