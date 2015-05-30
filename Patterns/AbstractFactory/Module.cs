@@ -92,7 +92,6 @@ namespace AbstractFactoryPatternModule
         }
     }
 
-    // This is just a FACTORY METHOD copy:
     abstract class PizzaStore
     {
         public Pizza orderPizza(string type)
